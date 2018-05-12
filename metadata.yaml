@@ -1,0 +1,27 @@
+_repo: Rudyard-Kipling_18045
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palmer, John
+    birthdate: 1885
+    deathdate: 1944
+    gutenberg_agent_id: '7769'
+    url: http://www.gutenberg.org/2009/agents/7769
+description: ''
+gutenberg_issued: '2006-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories, English -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'Kipling, Rudyard, 1865-1936 -- Criticism and interpretation'
+title: Rudyard Kipling
+url: http://www.gutenberg.org/ebooks/18045
